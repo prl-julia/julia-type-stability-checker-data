@@ -1,0 +1,10 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+AlphaZero,100,3,20,3,60,0,14,0,0,"AlphaZero@0.2.0","605dd84","Update Flux backend and package versions","2020-06-25 16:15:55 -0400"
+AlphaZero,123,4,23,3,79,0,14,0,0,"AlphaZero@0.3.0","5a52f8c","Merged with distributed-demo","2020-07-29 14:41:09 -0400"
+AlphaZero,124,4,23,4,79,0,14,0,0,"AlphaZero@0.3.0","77ad68d","Add ALPHAZERO_DEFAULT_DL_FRAMEWORK","2020-09-13 13:15:30 -0400"
+AlphaZero,129,8,31,3,86,0,1,0,0,"AlphaZero@0.3.0","bcfcfc7","Update deps","2021-02-11 16:20:23 -0500"
+AlphaZero,130,8,31,4,86,0,1,0,0,"AlphaZero@0.4.0","8555daa","Use DataLoader in learning_status","2021-04-25 22:58:30 -0400"
+AlphaZero,136,15,36,4,80,0,1,0,0,"AlphaZero@0.4.0","0fe792c","Breaking: add a batch_size argument to SimParams","2021-04-26 16:21:15 -0400"
+AlphaZero,137,15,36,5,80,0,1,0,0,"AlphaZero@0.5.1","9de68d9","Add an Openspiel wrapper and an example","2021-08-18 15:11:23 +0200"
+AlphaZero,137,16,35,5,80,0,1,0,0,"AlphaZero@0.5.2","23d0a3c","Merge pull request #89 from johannes-fischer/fix_memory_analysis","2022-01-14 08:34:27 -0500"
+AlphaZero,138,16,35,5,81,0,1,0,0,"AlphaZero@0.5.3","9240c98","Repair solver","2022-01-31 10:23:19 -0500"
