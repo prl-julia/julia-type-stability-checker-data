@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"PowerSimulations",878,354,77,36,71,6,331,0,3,"PowerSimulations@0.8.1","407ed31f0","Merge pull request #556 from NREL-SIIP/cb/handle_int_ts","2020-12-07 12:15:51 -0800",0,-1
