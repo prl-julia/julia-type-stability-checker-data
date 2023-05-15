@@ -1,0 +1,5 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+DataDrivenSR,115,7,25,2,20,1,58,0,2,"DataDrivenSR@0.1.0","11b21b25","Major Refactoring into API and Subpackages (#371)","2022-11-19 06:56:22 +0100"
+DataDrivenSR,124,7,34,2,18,1,61,0,1,"DataDrivenSR@0.1.0","00e31b9a","Adjust Combat Bounds (#419)","2022-11-19 08:57:53 +0100"
+DataDrivenSR,125,7,32,2,21,1,61,0,1,"DataDrivenSR@0.1.1","1f88956a","Merge pull request #437 from SciML/CJMselectionrework","2022-12-07 19:32:56 +0100"
+DataDrivenSR,117,7,22,2,23,1,60,0,2,"DataDrivenSR@0.1.2","12f9a440","Merge pull request #469 from SciML/symbolicsv5","2023-04-28 13:41:07 +0000"

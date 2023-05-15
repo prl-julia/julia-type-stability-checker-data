@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+DataDrivenLux,216,18,44,0,85,2,66,0,1,"DataDrivenLux@0.1.0","22fd7fdf","Merge pull request #442 from SciML/CJM-DataDrivenLuxBounds","2022-12-18 14:32:50 +0100"

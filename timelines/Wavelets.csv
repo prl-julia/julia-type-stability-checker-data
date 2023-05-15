@@ -1,0 +1,4 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Wavelets,510,240,144,0,8,5,109,0,4,"Wavelets@0.8.0","d60a852","Merge pull request #35 from dsweber2/master","2019-10-02 09:08:18 +0000"
+Wavelets,494,224,144,0,8,5,103,0,10,"Wavelets@0.9.2","afeb1a2","Merge pull request #56 from JeffFessler/master","2020-07-09 19:53:13 +0000"
+Wavelets,510,240,144,0,8,5,103,0,10,"Wavelets@0.9.3","a54a25c","Merge pull request #77 from halleysfifthinc/patch-1","2022-01-23 19:05:52 +0000"

@@ -1,0 +1,4 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+PyPlot,1164,341,211,15,84,387,120,2,4,"PyPlot@0.0.0","cc45ced","Clarify how to use rcParams (#445)","2019-06-17 11:12:29 -0400"
+PyPlot,1170,341,211,15,84,393,120,2,4,"PyPlot@2.9.0","7a36db6","add axline (#502)","2020-10-27 06:20:10 +0900"
+PyPlot,1163,341,207,16,85,394,114,2,4,"PyPlot@2.11.1","05172f0","Fix precompilation on latest master (#565)","2023-04-21 12:31:30 -0400"

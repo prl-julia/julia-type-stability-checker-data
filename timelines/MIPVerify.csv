@@ -1,0 +1,9 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+MIPVerify,116,43,28,3,11,0,24,2,5,"MIPVerify@0.2.3","ea873cd","Simplify convolution operation. (#70)","2020-09-26 15:56:00 -0700"
+MIPVerify,116,43,28,3,11,0,24,1,6,"MIPVerify@0.3.1","748102b","CompatHelper: bump compat for ""IntervalArithmetic"" to ""0.20"" (#103)","2021-10-16 17:56:15 -0700"
+MIPVerify,116,43,28,3,11,0,24,2,5,"MIPVerify@0.3.1","64e523e","CompatHelper: bump compat for ""MathOptInterface"" to ""1.0"" (#107)","2022-02-18 12:40:23 -0800"
+MIPVerify,116,43,28,3,11,0,24,1,6,"MIPVerify@0.3.1","cfe092c","CompatHelper: bump compat for ""JuMP"" to ""1.0"" (#109)","2022-03-25 21:11:18 -0700"
+MIPVerify,116,43,28,3,11,0,24,2,5,"MIPVerify@0.3.1","693c1b4","Clarify in Project.toml that 1.x versions are automatically updated. (#114)","2022-03-25 23:12:48 -0700"
+MIPVerify,116,43,28,3,11,0,24,1,6,"MIPVerify@0.3.2","4855993","Cut v0.3.2 (#115)","2022-03-25 23:37:42 -0700"
+MIPVerify,117,43,28,3,12,0,24,1,6,"MIPVerify@0.4.1","41b3805","Consistently silence output from solvers. (#131)","2023-02-16 22:29:34 -0800"
+MIPVerify,116,43,28,3,11,0,24,1,6,"MIPVerify@0.5.0","9383d59","Switch testing to use HiGHS.jl (#133)","2023-02-16 23:25:06 -0800"

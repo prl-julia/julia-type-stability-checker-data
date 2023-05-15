@@ -1,0 +1,5 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+GaussianProcesses,596,56,438,6,61,10,16,0,9,"GaussianProcesses@0.0.0","a1cf9d9","Replaced REQUIRE files with Project.toml","2019-09-26 17:48:02 +0100"
+GaussianProcesses,602,56,444,6,61,10,16,0,9,"GaussianProcesses@0.11.0","a15d379","Merge branch 'master' of https://github.com/STOR-i/GaussianProcesses.jl","2019-11-08 18:43:58 +0000"
+GaussianProcesses,624,59,454,6,68,12,16,0,9,"GaussianProcesses@0.12.3","d98cfca","CompatHelper: bump compat for ""Zygote"" to ""0.6"" (#178)","2020-12-23 13:10:33 +0000"
+GaussianProcesses,623,59,453,6,67,13,16,0,9,"GaussianProcesses@0.12.4","e015319","Update optimize.jl","2022-09-16 13:15:23 +0100"

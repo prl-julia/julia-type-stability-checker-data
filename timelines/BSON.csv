@@ -1,0 +1,11 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+BSON,101,41,11,4,41,1,1,0,2,"BSON@0.2.4","0f0c1cc","Merge pull request #51 from DilumAluthge/da/project-toml-file","2019-08-09 13:01:58 +0100"
+BSON,104,44,11,4,41,1,1,0,2,"BSON@0.2.4","e75fb15","Merge pull request #37 from JeffBezanson/jb/1.2fixes","2019-09-27 09:07:44 +0100"
+BSON,104,45,11,3,41,1,1,0,2,"BSON@0.2.4","38016de","Merge pull request #63 from JuliaIO/jb/1.4fixes","2020-01-08 09:53:32 +0000"
+BSON,104,46,10,3,41,1,1,0,2,"BSON@0.2.5","f66a639","Merge pull request #70 from dhairyagandhi96/dg/iddict","2020-04-17 20:23:14 +0530"
+BSON,105,47,10,3,41,1,1,0,2,"BSON@0.3.0","efe5c53","Merge pull request #86 from CarloLucibello/master","2021-02-27 16:21:39 +0530"
+BSON,106,47,10,3,42,1,1,0,2,"BSON@0.3.1","92d2f12","Merge pull request #91 from darsnack/darsnack/module-fix","2021-03-07 10:00:52 +0100"
+BSON,106,46,10,4,42,1,1,0,2,"BSON@0.3.2","14cd434","Merge pull request #94 from darsnack/darsnack/julia1.6","2021-04-02 19:40:37 +0200"
+BSON,105,45,10,5,41,1,1,0,2,"BSON@0.3.3","3b4a2ce","Merge pull request #103 from mauro3/m3/fix17","2021-10-10 05:16:13 +0530"
+BSON,106,46,10,5,41,1,1,0,2,"BSON@0.3.4","379fb3c","Merge pull request #102 from darsnack/darsnack/mutable-fix","2022-02-12 16:55:55 +0100"
+BSON,107,46,10,5,42,1,1,0,2,"BSON@0.3.7","18c59c9","try finding module from loaded modules (#120)","2023-03-26 15:47:19 +0800"

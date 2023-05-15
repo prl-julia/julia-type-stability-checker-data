@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+DashCoreComponents,1,1,0,0,0,0,0,0,0,"DashCoreComponents@2.0.0","6c790f0","Merge pull request #991 from waralex/empty_julia_package","2021-10-05 08:49:00 -0400"

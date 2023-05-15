@@ -1,0 +1,4 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Loess,17,0,2,0,2,0,13,0,0,"Loess@0.0.0","b98ae19","Merge pull request #30 from JuliaStats/aa/stuff","2019-01-29 10:45:52 -0800"
+Loess,17,0,6,0,2,0,9,0,0,"Loess@0.5.4","60a5998","Merge pull request #64 from JuliaStats/an/newmedian","2023-04-11 23:14:31 +0200"
+Loess,19,0,4,0,4,0,11,0,0,"Loess@0.5.4","add0103","Merge pull request #68 from JuliaStats/an/optimize","2023-05-04 14:21:43 +0200"

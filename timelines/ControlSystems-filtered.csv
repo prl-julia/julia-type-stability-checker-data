@@ -1,0 +1,7 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"ControlSystems",487,12,181,8,118,82,81,2,3,"ControlSystems@0.5.4","9fec5dea","Merge pull request #236 from JuliaControl/release-0.5.4-option2","2019-11-12 23:20:58 +0000",0,2
+"ControlSystems",487,12,183,6,118,82,81,2,3,"ControlSystems@0.5.4","246ab0fb","Merge pull request #239 from JuliaControl/compat-bounds","2019-11-13 01:14:14 +0000",0,-2
+"ControlSystems",492,14,181,8,120,83,81,2,3,"ControlSystems@0.5.7","bfadc8f0","Merge pull request #271 from JuliaControl/mfalt-patch-5","2020-03-14 15:54:10 +0100",0,2
+"ControlSystems",977,108,342,27,171,123,192,4,10,"ControlSystems@0.9.0","dda8d385","Add function to order conjugate pairs in zpk constructor (#386)","2021-02-01 18:39:13 +0100",0,2
+"ControlSystems",662,27,222,6,160,126,105,2,14,"ControlSystems@0.12.2","20a0654f","Merge pull request #639 from JuliaControl/typestab","2022-02-18 11:02:34 +0100",0,-1
+"ControlSystems",755,34,242,5,191,142,128,2,11,"ControlSystems@1.2.2","40b14894","Update Project.toml","2022-08-25 12:17:01 +0200",0,2

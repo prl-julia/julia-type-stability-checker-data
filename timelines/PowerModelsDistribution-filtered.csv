@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"PowerModelsDistribution",525,131,79,37,268,0,9,0,1,"PowerModelsDistribution@0.6.0","7000015","REF: Ensure all PMD functions' phase loops are internal (#168)","2019-09-05 10:48:54 -0600",0,-2

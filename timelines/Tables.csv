@@ -1,0 +1,13 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Tables,31,0,0,1,10,0,20,0,0,"Tables@0.1.0","c9a9cd4","updates","2018-08-04 14:46:38 -0600"
+Tables,27,0,0,1,8,0,18,0,0,"Tables@0.1.0","86f524d","Cleanup API","2018-08-04 22:35:34 -0600"
+Tables,29,1,1,1,10,0,16,0,0,"Tables@0.1.0","d2a12b4","Updates","2018-08-09 03:00:14 -0600"
+Tables,14,0,2,0,5,0,7,0,0,"Tables@0.1.0","be7412e","Updates","2018-08-11 04:32:05 -0600"
+Tables,15,0,2,0,6,0,7,0,0,"Tables@0.1.0","96dcbbe","Fix fallbacks","2018-08-11 05:01:01 -0600"
+Tables,14,0,2,0,5,0,7,0,0,"Tables@0.1.0","3ff74d0","Fix non-generated generic fallback RowIterator","2018-08-11 05:24:57 -0600"
+Tables,17,0,2,0,7,0,8,0,0,"Tables@0.1.0","a16dfa5","A few cleanups","2018-08-11 06:39:08 -0600"
+Tables,32,0,6,1,14,0,11,0,0,"Tables@0.1.0","0b7f8fd","Updates","2018-08-22 19:44:53 -0600"
+Tables,35,0,6,1,15,0,13,0,0,"Tables@0.1.0","0473cf7","A few updates","2018-08-24 06:02:07 -0600"
+Tables,36,0,6,1,15,0,14,0,0,"Tables@0.1.0","9601908","Don't re-nametuple-ify a namedtuple of columns","2018-08-24 11:27:24 -0600"
+Tables,37,0,6,1,12,0,18,0,0,"Tables@0.1.0","bdb2905","What I dream of is an art of balance, of purity and serenity devoid of troubling or depressing subject matter - a soothing, calming influence on the mind, rather like a good armchair which provides relaxation from physical fatigue.","2018-08-24 23:17:37 -0600"
+Tables,246,26,59,13,52,1,73,15,7,"Tables@0.1.0","1278f45","Fix UUID","2018-08-29 07:00:14 -0600"

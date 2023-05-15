@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"ExplainableAI",76,1,26,0,27,0,22,0,0,"ExplainableAI@0.3.0","5704ec0","Faster `stabilize_denom` (#47)","2022-03-29 18:24:00 +0200",0,-1

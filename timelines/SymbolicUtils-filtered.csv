@@ -1,0 +1,5 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"SymbolicUtils",51,9,5,10,25,1,0,0,1,"SymbolicUtils@0.1.0","9f742fb","speed up LL","2020-02-10 19:33:16 -0500",0,-2
+"SymbolicUtils",148,77,21,1,43,1,2,0,3,"SymbolicUtils@0.1.0","c914646","type paramize symtype","2020-02-12 13:05:48 -0500",0,-8
+"SymbolicUtils",206,87,25,0,89,1,4,0,0,"SymbolicUtils@0.4.3","7e39426","Merge pull request #120 from JuliaSymbolics/s/workaround-crash","2020-08-11 23:59:21 -0400",0,-1
+"SymbolicUtils",357,140,37,8,159,2,11,0,0,"SymbolicUtils@0.13.3","b0e601b","Merge pull request #335 from rikhuijzer/rm-meta-parse","2021-08-09 13:44:30 -0400",0,-1

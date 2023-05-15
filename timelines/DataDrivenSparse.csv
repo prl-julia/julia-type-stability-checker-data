@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+DataDrivenSparse,32,0,19,0,4,0,9,0,0,"DataDrivenSparse@0.1.0","11b21b25","Major Refactoring into API and Subpackages (#371)","2022-11-19 06:56:22 +0100"

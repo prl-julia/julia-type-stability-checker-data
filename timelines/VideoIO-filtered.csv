@@ -1,0 +1,4 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"VideoIO",298,62,61,7,110,14,44,0,0,"VideoIO@0.9.1","33200c2","fix load args & kwargs splats (#316)","2021-04-07 11:04:53 -0400",0,-1
+"VideoIO",300,63,63,6,110,14,44,0,0,"VideoIO@0.9.5","0a710e8","Update Clang wrapper generator and wrapper code (#333)","2021-11-13 07:10:41 +0800",0,-1
+"VideoIO",300,62,63,7,110,14,44,0,0,"VideoIO@0.9.6","7d790a2","fix error of `opencamera()` (#345)","2022-03-07 18:20:02 +0100",0,1

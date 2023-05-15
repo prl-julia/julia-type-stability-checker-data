@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"OutlierDetection",68,13,18,3,20,1,7,0,6,"OutlierDetection@0.1.0","fd09901","API change with renaming to prevent MLJ clashes","2021-04-22 21:38:03 +0200",0,1

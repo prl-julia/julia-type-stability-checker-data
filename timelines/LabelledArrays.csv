@@ -1,0 +1,7 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+LabelledArrays,42,4,7,0,20,0,11,0,0,"LabelledArrays@v0.6.0","bf6be1f","Add a Project.toml","2019-04-30 08:28:45 -0400"
+LabelledArrays,51,4,7,0,20,8,12,0,0,"LabelledArrays@0.7.1","33d6ceb","Merge pull request #66 from YingboMa/myb/fix","2019-07-18 13:13:50 -0400"
+LabelledArrays,37,4,7,0,10,8,8,0,0,"LabelledArrays@1.3.0","0dc143d","Merge pull request #85 from rafaqz/remove_sliced","2020-10-26 18:45:24 -0400"
+LabelledArrays,41,4,10,0,11,8,8,0,0,"LabelledArrays@1.6.6","fdca936","Merge pull request #107 from torfjelde/tor/chainrules","2021-11-22 16:52:11 -0500"
+LabelledArrays,43,4,10,0,12,8,9,0,0,"LabelledArrays@1.7.3","4c13809","Merge pull request #114 from SciML/myb/bc","2022-03-03 14:57:16 -0500"
+LabelledArrays,45,5,10,0,13,8,9,0,0,"LabelledArrays@1.12.2","9e9462d","Merge pull request #130 from SciML/multisize","2022-10-17 08:26:31 +0200"

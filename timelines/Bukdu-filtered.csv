@@ -1,0 +1,3 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"Bukdu",93,19,6,7,46,2,13,0,0,"Bukdu@0.4.9-DEV","3c2f188","prequisite_plugs to Vector{Function}","2019-11-16 14:32:25 +0900",0,2
+"Bukdu",97,22,9,5,46,2,13,0,0,"Bukdu@0.4.16-DEV","e826541","Merge pull request #109 from wookay/route_response","2020-10-09 16:14:40 +0900",0,-1

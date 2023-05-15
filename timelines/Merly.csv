@@ -1,0 +1,13 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Merly,13,8,0,3,2,0,0,0,0,"Merly@0.2.1","d3cd668","Merge pull request #11 from codeneomatrix/dev","2019-10-17 09:52:59 -0500"
+Merly,24,13,2,5,3,0,0,0,1,"Merly@0.2.1","d4a228b","Merge pull request #16 from phelipe/master","2020-06-17 09:15:22 -0500"
+Merly,24,11,2,5,5,0,0,0,1,"Merly@1.0.0","384f575","performance improvement tests","2020-12-31 20:57:47 -0600"
+Merly,25,12,2,6,4,0,0,0,1,"Merly@1.0.0","cf85288","experimentation","2021-01-02 19:26:29 -0600"
+Merly,27,16,2,5,3,0,0,0,1,"Merly@1.0.0","0380147","processing simple urls with parameters","2021-01-12 14:42:52 -0600"
+Merly,29,19,2,4,3,0,0,0,1,"Merly@1.0.0","e20eb09","injection of variables in functions","2021-01-15 21:24:35 -0600"
+Merly,36,27,2,4,3,0,0,0,0,"Merly@1.0.0","7092832","merly new version","2021-02-02 14:10:45 -0600"
+Merly,34,27,2,2,3,0,0,0,0,"Merly@1.0.0","db1bfa8","add more tests","2021-02-03 17:53:56 -0600"
+Merly,34,26,2,3,3,0,0,0,0,"Merly@1.0.0","6217b51","update dependences","2021-02-06 13:30:57 -0600"
+Merly,34,27,2,2,3,0,0,0,0,"Merly@1.0.0","09956f5","dependencies  version","2021-02-07 10:48:51 -0600"
+Merly,34,26,2,3,3,0,0,0,0,"Merly@1.0.3","81e9c87","v1.0.3","2021-02-07 15:05:59 -0600"
+Merly,34,27,2,2,3,0,0,0,0,"Merly@1.0.3","e12e720","new version","2021-02-07 17:46:14 -0600"

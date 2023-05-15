@@ -1,0 +1,5 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+CUDAKernels,8,1,1,0,4,0,2,0,0,"CUDAKernels@0.2.0","78cad4e","Merge #242","2021-04-21 20:52:48 +0000"
+CUDAKernels,7,1,0,0,4,0,2,0,0,"CUDAKernels@0.4.0","f5ceb33","Excise Cassette (#288)","2022-02-28 16:40:20 -0500"
+CUDAKernels,7,1,0,0,3,0,3,0,0,"CUDAKernels@0.4.3","cb256a9","Prefer blocks over threads (#341)","2023-01-27 21:05:21 -0500"
+CUDAKernels,8,1,0,0,4,0,3,0,0,"CUDAKernels@0.4.6","cee78df","[CUDAKernels] add always_inline as device parameter (#343)","2023-02-04 18:37:46 -0500"

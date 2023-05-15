@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+oneAPIKernels,12,2,0,1,9,0,0,0,0,"oneAPIKernels@0.1.0","9a3631d","Merge pull request #312 from JuliaGPU/tb/oneapi","2022-07-04 10:17:25 -0400"

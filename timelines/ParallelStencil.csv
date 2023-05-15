@@ -1,0 +1,7 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+ParallelStencil,38,15,3,4,2,14,0,0,0,"ParallelStencil@0.5.3","1381f6b","Merge pull request #24 from omlins/CUDA-skip","2021-04-11 21:55:36 +0200"
+ParallelStencil,46,15,3,4,2,22,0,0,0,"ParallelStencil@0.5.7","8396ba2","Merge pull request #43 from omlins/shmem","2021-12-03 17:53:01 +0100"
+ParallelStencil,46,15,4,4,1,22,0,0,0,"ParallelStencil@0.6.0","a5b9ed5","Merge pull request #47 from omlins/numbertype","2021-12-23 13:01:44 +0100"
+ParallelStencil,51,15,4,4,1,27,0,0,0,"ParallelStencil@0.6.0","945f283","Merge pull request #54 from omlins/celldims","2022-08-18 11:17:28 +0200"
+ParallelStencil,130,20,9,5,37,59,0,0,0,"ParallelStencil@0.6.0","b985f8f","Merge pull request #66 from omlins/loopopt","2022-10-03 19:50:52 +0200"
+ParallelStencil,133,20,9,5,37,62,0,0,0,"ParallelStencil@0.6.0","598a6bb","Merge pull request #69 from omlins/amdgpu","2022-12-12 11:05:02 +0100"

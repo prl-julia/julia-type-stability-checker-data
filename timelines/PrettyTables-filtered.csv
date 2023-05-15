@@ -1,0 +1,5 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"PrettyTables",144,40,23,7,54,3,14,0,3,"PrettyTables@0.8.4","57c5a91",":warning: :wrench: Modify the API of formatters","2020-03-21 16:56:37 -0300",0,7
+"PrettyTables",202,86,33,10,61,5,4,0,3,"PrettyTables@0.11.1","b1e0cbd",":racehorse: Fix more type instabilities in text backend","2021-04-06 13:41:00 -0300",0,-1
+"PrettyTables",290,150,48,13,66,5,4,0,4,"PrettyTables@1.3.1","9f076b3",":wrench: Remove type instability the alignment getter","2022-02-06 20:08:21 -0300",0,-2
+"PrettyTables",281,170,40,13,47,5,2,0,4,"PrettyTables@1.3.1","baa46f9",":wrench: Bump minimum version of StringManipulation.jl","2022-03-19 16:50:12 -0300",0,-3

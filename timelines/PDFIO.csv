@@ -1,0 +1,8 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+PDFIO,52,36,4,10,1,0,1,0,0,"PDFIO@0.1.10","97f9584","Fixing #91","2020-10-25 19:37:36 +0530"
+PDFIO,52,33,2,10,1,0,1,5,0,"PDFIO@0.1.11","f835c8d","Update .travis.yml","2021-01-17 11:07:29 +0530"
+PDFIO,52,36,4,10,1,0,1,0,0,"PDFIO@0.1.11","3fe79ef","Create Documentation","2021-01-17 15:26:22 +0530"
+PDFIO,52,33,2,10,1,0,1,5,0,"PDFIO@0.1.11","1a434cb","Update Documentation.yml","2021-01-17 23:16:57 +0530"
+PDFIO,52,36,4,10,1,0,1,0,0,"PDFIO@0.1.12","717f4e4","Update Project.toml","2021-01-17 23:22:24 +0530"
+PDFIO,52,33,2,10,1,0,1,5,0,"PDFIO@0.1.14","7a78780","Merge remote-tracking branch 'refs/remotes/origin/master'","2022-11-16 22:43:59 +0530"
+PDFIO,52,36,4,10,1,0,1,0,0,"PDFIO@0.1.14","d64c258","Set Compat for OpenSSL_jll (#108)","2023-03-04 07:12:11 -0500"

@@ -1,0 +1,6 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+TableView,11,1,4,0,6,0,0,0,0,"TableView@0.0.0","888ce65","Merge pull request #20 from JuliaComputing/sp/nothingmissing","2019-06-04 17:24:32 +0200"
+TableView,12,1,4,0,7,0,0,0,0,"TableView@0.4.1","a9e7ea4","Merge pull request #28 from ancapdev/events","2019-10-24 11:47:27 +0200"
+TableView,14,2,5,0,7,0,0,0,0,"TableView@0.6.8","8dbe19f","Merge pull request #71 from baumgold/70-InexactError","2021-03-28 21:39:45 +0200"
+TableView,13,2,5,0,6,0,0,0,0,"TableView@0.7.0","6a49528","Merge pull request #76 from JuliaComputing/sp/updates","2021-05-12 14:06:12 +0200"
+TableView,14,2,6,0,6,0,0,0,0,"TableView@0.7.1","c1fabb3","Merge pull request #82 from baumgold/is_javascript_safe","2021-06-04 10:07:18 +0200"

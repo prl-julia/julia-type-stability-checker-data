@@ -1,0 +1,4 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+GPUArraysCore,6,4,0,0,2,0,0,0,0,"GPUArraysCore@0.1.0","5ca04f0","Move core functionality to GPUArraysCore. (#411)","2022-06-08 17:10:13 +0200"
+GPUArraysCore,8,4,1,0,3,0,0,0,0,"GPUArraysCore@0.1.2","26c5191","Move `backend` to `GPUArraysCore.jl` (#420)","2022-08-17 16:00:27 +0800"
+GPUArraysCore,9,4,1,0,3,0,1,0,0,"GPUArraysCore@0.1.2","0a42771","Add backend function for Adapt.WrappedArray (#428)","2022-09-23 16:57:47 +0100"

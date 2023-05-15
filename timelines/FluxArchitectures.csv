@@ -1,0 +1,7 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+FluxArchitectures,371,4,64,0,119,41,139,0,4,"FluxArchitectures@0.1.0","4224f97","Merge pull request #17 from sdobber/sd/documentation","2021-09-14 18:58:46 +0200"
+FluxArchitectures,373,4,64,0,121,41,139,0,4,"FluxArchitectures@0.1.1","db99df3","Merge pull request #21 from sdobber/sd/tablesinterface","2021-10-06 19:17:34 +0200"
+FluxArchitectures,372,4,63,0,121,41,139,0,4,"FluxArchitectures@0.1.2","35bb27b","Merge pull request #24 from sdobber/sd/cleanup","2021-10-15 18:49:20 +0200"
+FluxArchitectures,398,6,65,1,132,48,142,0,4,"FluxArchitectures@0.2","8cdb639","Merge pull request #38 from sdobber/sd/fluxv013","2022-04-16 16:58:49 +0200"
+FluxArchitectures,396,6,64,1,131,48,142,0,4,"FluxArchitectures@0.2.1","6d6de5d","Remove FALSTMCell (#39)","2022-05-31 20:11:42 +0200"
+FluxArchitectures,380,6,59,1,128,40,142,0,4,"FluxArchitectures@0.2.1","bba74bc","Pin Zygote version to <= 0.6.43 (#43)","2022-08-29 15:54:53 +0200"

@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"JuliaInterpreter",309,80,7,27,189,6,0,0,0,"JuliaInterpreter@0.7.24","cd0c985","Improve inference for several methods leading to (:) (#421)","2020-08-21 08:06:33 -0500",0,-3

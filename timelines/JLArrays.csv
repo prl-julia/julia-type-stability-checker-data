@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+JLArrays,4,0,0,0,4,0,0,0,0,"JLArrays@0.1.0","1e43d05","Move JLArray to a subpackage (#418)","2022-07-18 06:24:58 -0400"

@@ -1,0 +1,6 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+NamedArrays,123,4,81,2,11,3,22,0,0,"NamedArrays@0.9.2","3ffb1f9","Add Projec and Manifest, use InvertedArray.Not, fixes #77","2019-06-07 22:36:56 +0200"
+NamedArrays,125,4,81,2,11,3,24,0,0,"NamedArrays@0.9.3","e41167b","Implement sortslices(), fixing #79","2019-09-10 09:03:59 +0200"
+NamedArrays,126,4,82,2,11,3,24,0,0,"NamedArrays@0.9.4","06cafad","Added enameration. (#94)","2020-06-26 16:57:52 +0200"
+NamedArrays,128,4,84,2,11,3,24,0,0,"NamedArrays@0.9.6","cee689f","Fix qr()","2022-12-23 11:22:44 +0100"
+NamedArrays,129,4,84,2,11,3,25,0,0,"NamedArrays@0.9.6","717c72b","Add constructor to support named arguments (#120)","2022-12-24 02:33:08 +1100"

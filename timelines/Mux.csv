@@ -1,0 +1,9 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Mux,74,11,4,0,50,9,0,0,0,"Mux@0.7.1","7abd82d","Bump to 0.7.1 and add Project.toml (#100)","2020-01-07 11:32:11 -0600"
+Mux,75,11,4,0,51,9,0,0,0,"Mux@0.7.1","d0abb2a","Recommend against using defaults in Production (#93)","2020-01-08 09:27:27 -0600"
+Mux,78,13,4,0,50,11,0,0,0,"Mux@0.7.3","43d9bf4","Merge pull request #117 from cmcaine/recurse-a-bit-less","2020-12-06 09:32:22 -0600"
+Mux,79,13,4,0,51,11,0,0,0,"Mux@0.7.4","fba4f3b","Merge pull request #116 from cmcaine/spelling-is-hard","2020-12-07 08:57:57 -0600"
+Mux,81,13,4,0,52,12,0,0,0,"Mux@0.7.4","7c0738b","Merge pull request #114 from cmcaine/import-duty","2020-12-17 20:17:19 -0600"
+Mux,82,13,5,0,52,12,0,0,0,"Mux@0.7.4","9b1ce97","Merge pull request #124 from cmcaine/fix-77","2020-12-20 12:41:35 +0000"
+Mux,86,13,5,0,56,12,0,0,0,"Mux@0.7.6","b5885d3","Merge pull request #138 from JuliaWeb/tan/tlswebsock","2021-05-27 14:58:41 +0530"
+Mux,84,13,6,0,53,12,0,0,0,"Mux@1.0.1","816fde7","fix serve api that integrates websockets (#147)","2022-10-14 11:20:31 +0530"

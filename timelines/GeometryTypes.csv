@@ -1,0 +1,11 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+GeometryTypes,362,8,49,1,98,0,206,0,0,"GeometryTypes@0.7.4","4caa1ed","Merge pull request #170 from juliohm/toml","2019-05-24 01:17:27 +0200"
+GeometryTypes,367,8,49,1,99,0,210,0,0,"GeometryTypes@0.7.6","f956c0c","Merge pull request #144 from BeastyBlacksmith/add_algorithms","2019-10-17 17:09:55 +0200"
+GeometryTypes,368,8,49,1,99,0,211,0,0,"GeometryTypes@0.7.6","c42a2b3","Merge pull request #182 from CarpeNecopinum/patch-1","2019-10-18 10:15:30 -0400"
+GeometryTypes,369,8,49,1,100,0,211,0,0,"GeometryTypes@0.7.6","19cb633","Merge pull request #189 from jkrumbiegel/jk/fix-type-instability","2019-12-02 19:22:33 +0100"
+GeometryTypes,370,8,50,1,100,0,211,0,0,"GeometryTypes@0.7.7","595d187","Merge pull request #195 from mforets/mforets/width","2020-02-24 12:31:24 +0100"
+GeometryTypes,372,8,51,1,100,0,212,0,0,"GeometryTypes@0.7.8","8d6da2e","Merge pull request #187 from goretkin/offset-integer","2020-02-25 23:45:20 +0100"
+GeometryTypes,375,8,51,1,100,0,215,0,0,"GeometryTypes@0.7.8","928ec96","Merge pull request #196 from JuliaGeometry/sd/fixes","2020-02-26 11:33:12 +0100"
+GeometryTypes,376,8,51,1,100,0,216,0,0,"GeometryTypes@0.7.9","a95768f","Merge pull request #199 from ffreyer/master","2020-02-29 12:47:12 +0100"
+GeometryTypes,384,8,60,1,101,0,214,0,0,"GeometryTypes@0.7.10","4f1ba71","Merge pull request #166 from JuliaGeometry/sd-refactor","2020-03-02 10:44:06 +0100"
+GeometryTypes,403,8,60,1,101,0,233,0,0,"GeometryTypes@0.8.2","ab4f088","Merge pull request #205 from JuliaGeometry/VladimirIvan-vi-capsule","2020-05-01 21:24:45 +0200"

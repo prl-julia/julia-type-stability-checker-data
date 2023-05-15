@@ -1,0 +1,3 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"JDF",644,152,222,23,82,33,113,7,12,"JDF@0.2.19","7a7f8ea","updated ready for dataframes v0.22","2020-11-10 01:42:40 +1100",0,2
+"JDF",562,114,191,22,81,30,111,5,8,"JDF@0.4.2","097482b","updated to dataframes v1","2021-04-25 11:35:02 +1000",0,1

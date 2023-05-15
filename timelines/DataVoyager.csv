@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+DataVoyager,0,0,0,0,0,0,0,0,0,"DataVoyager@1.0.0-DEV","00143ad","Move to Project.toml","2019-04-26 17:18:05 -0700"

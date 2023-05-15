@@ -1,0 +1,2 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Calculus,176,6,1,5,129,1,33,0,1,"Calculus@0.5.0","ffeaee8","Merge pull request #136 from ChrisRackauckas/ChrisRackauckas-patch-1","2019-07-16 13:21:01 -0400"

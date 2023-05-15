@@ -1,0 +1,13 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+Eyeball,33,5,7,2,16,0,3,0,0,"Eyeball@0.1.0","494f5d8","First commit","2021-12-30 09:44:34 -0500"
+Eyeball,34,5,7,2,17,0,3,0,0,"Eyeball@0.1.0","906a677","Add a noninteractive version","2021-12-30 10:33:03 -0500"
+Eyeball,35,4,7,2,19,0,3,0,0,"Eyeball@0.2.0","4d927e3","Add pager and fix recursive calls to menus (#3)","2021-12-31 06:49:31 -0500"
+Eyeball,40,4,8,3,22,0,3,0,0,"Eyeball@0.2.0","ace5583","Feature update (#4)","2021-12-31 13:05:52 -0500"
+Eyeball,41,4,8,3,23,0,3,0,0,"Eyeball@0.2.0","ae36e92","Adjust folding; make numbers fold (#5)","2021-12-31 15:28:56 -0500"
+Eyeball,42,4,8,3,24,0,3,0,0,"Eyeball@0.2.0","908f09f","Folding tweak (#7)","2022-01-01 07:32:42 -0500"
+Eyeball,41,4,8,3,23,0,3,0,0,"Eyeball@0.2.0","4508cf4","Switch to TerminalPager for paging (#8)","2022-01-01 11:26:36 -0500"
+Eyeball,41,8,7,3,18,0,5,0,0,"Eyeball@0.2.0","6387bb8","Speed refactor (#12)","2022-01-02 07:59:49 -0500"
+Eyeball,51,10,9,4,24,0,4,0,0,"Eyeball@0.3.0","8f34ee6","Feature update / API change (#17)","2022-01-08 07:37:21 -0500"
+Eyeball,52,10,9,4,25,0,4,0,0,"Eyeball@0.4.0","0e051c7","Summarize (#19)","2022-01-09 07:38:13 -0500"
+Eyeball,53,10,10,4,25,0,4,0,0,"Eyeball@0.4.2","789439f","Change how dicts are shown (#21)","2022-01-10 21:01:29 -0500"
+Eyeball,54,10,10,4,26,0,4,0,0,"Eyeball@0.5.0","9199a49","Add display of sizes (#36)","2023-04-16 20:11:06 -0400"

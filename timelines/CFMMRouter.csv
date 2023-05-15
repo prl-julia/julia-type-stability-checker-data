@@ -1,0 +1,6 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+CFMMRouter,35,3,4,0,16,0,12,0,0,"CFMMRouter@0.1.0","3985e07","v0.1","2022-03-31 15:19:20 -0700"
+CFMMRouter,36,3,4,0,16,0,13,0,0,"CFMMRouter@0.1.0","97a909c","Merge pull request #14 from bcc-research/swap","2022-07-20 23:08:29 -0700"
+CFMMRouter,40,3,4,0,19,0,14,0,0,"CFMMRouter@0.1.0","53979af","Merge pull request #13 from Max-RiskHarbor/univ3_router","2022-10-03 16:17:34 -0400"
+CFMMRouter,52,3,4,0,17,0,28,0,0,"CFMMRouter@0.2.1","c838290","Merge branch 'main' of github.com:bcc-research/CFMMRouter.jl","2023-02-07 11:22:10 -0800"
+CFMMRouter,54,3,4,0,17,0,30,0,0,"CFMMRouter@0.3.0","f6fbf51","Changing precision, adding `zerotrade`","2023-02-07 17:06:50 -0800"

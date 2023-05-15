@@ -1,0 +1,5 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+AstroLib,313,73,53,8,5,4,115,0,55,"AstroLib@1.0.0","4260d87","Add Project.toml and other fixes (#58)","2020-02-26 15:42:19 +0000"
+AstroLib,312,73,53,8,5,4,114,0,55,"AstroLib@1.0.0","7fe0411","[kepler_solver] Have a single method with Real input (#68)","2021-04-01 20:19:50 +0100"
+AstroLib,312,73,54,7,5,4,114,0,55,"AstroLib@1.0.0","5493395","[kepler_solver] Improve type-stability","2021-04-01 20:25:05 +0100"
+AstroLib,311,72,54,7,5,4,114,0,55,"AstroLib@0.4.1","f5a9b56","Type Relaxation on sunpos (#76)","2022-04-09 01:30:28 +0530"

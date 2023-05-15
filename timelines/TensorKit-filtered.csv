@@ -1,0 +1,2 @@
+"Module","Methods","Stable","Partial","Unstable","Any","Vararg","Generic","TcFail","NoFuel","Version","Commit","Message","Date","DeltaMethods","DeltaUnstable"
+"TensorKit",1541,218,626,2,93,6,558,12,26,"TensorKit@0.9.1","1fe0309","fixes and stylistic changes in planar.jl","2021-09-09 16:19:47 +0200",0,-1

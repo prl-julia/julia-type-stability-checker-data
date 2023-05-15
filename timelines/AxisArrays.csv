@@ -1,0 +1,7 @@
+Module,Methods,Stable,Partial,Unstable,Any,Vararg,Generic,TcFail,NoFuel,Version,Commit,Message,Date
+AxisArrays,197,24,48,0,58,5,59,2,1,"AxisArrays@0.3.0","2a7081c","Merge pull request #162 from JuliaArrays/cjf/use-project-toml","2019-07-09 10:01:29 +1000"
+AxisArrays,200,25,48,0,59,6,59,2,1,"AxisArrays@0.3.0","2f81a7a","Merge pull request #163 from JuliaArrays/cjf/generated-function-fixes","2019-08-11 02:26:19 -0500"
+AxisArrays,205,25,48,0,63,6,60,2,1,"AxisArrays@0.3.1","b078564","Merge pull request #164 from JuliaArrays/teh/unknown_index_types","2019-08-19 07:54:18 -0500"
+AxisArrays,211,25,52,0,65,6,60,2,1,"AxisArrays@0.4.1","c09954f","Add keyword indexing + constructor (#177)","2020-02-06 17:56:22 +0100"
+AxisArrays,211,25,51,0,65,6,61,2,1,"AxisArrays@0.4.3","4e29472","Fix deprecations with nt.names and kw.data (#201)","2021-07-24 22:04:28 -0400"
+AxisArrays,212,25,51,0,66,6,61,2,1,"AxisArrays@0.4.4","0fc2eef","CompatHelper: bump compat for IntervalSets to 0.6, (keep existing compat) (#206)","2022-04-01 09:59:44 +0800"
